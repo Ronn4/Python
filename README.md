@@ -19,6 +19,6 @@ git commit -m "first commit"
 
 git remote add origin git@github.com:Yonv1943/Python.git
 
-git push -u origin master
+git push -u origin python master
 
 
